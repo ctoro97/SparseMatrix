@@ -1,1 +1,2 @@
 # SparseMatrix
+Using Java, I wrote a program that calculates the determinant of a sparse matrix using recursion. The SparseMatrix class needed to implement the SparseInterface class. The sparse matrix itself was created using a linked list and could be updated by adding or deleting points on the matrix. No value of 0 could be added to the sparse matrix, as that would defeat the purpose of the sparse matrix.
